@@ -4,6 +4,6 @@ Use `sage --pip install pillow ortools` to import these packages.
 # Usage 
 `sage toric.py [option]`  
 `Valid options:`  
-`	-h: print this message`  
+`	-h: Print a help message`  
 `	-r: Produce toric mosaic of torus knot (p,q) using rapunzel algorithm.`  
 `	-s: Catalog mosaic from string. (not fully implemented)`  
